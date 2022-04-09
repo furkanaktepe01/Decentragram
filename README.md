@@ -1,2 +1,2 @@
 # Decentragram
-Decentralized Instagram
+Decentralized Image Sharing Platform
